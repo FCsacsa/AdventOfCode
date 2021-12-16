@@ -18,6 +18,7 @@ void add_element(Array array, void *ptr);
  *
  * array: The array where we want to save the element.
  * ptr:   The pointer to the element.
+ * `pos`: The position where to inset the element.
  */
 void insert_element(Array array, void *ptr, unsigned int pos);
 
