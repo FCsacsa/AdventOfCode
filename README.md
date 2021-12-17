@@ -32,6 +32,23 @@ Library and solutions to the problems in [Advent of Code](adventofcode.com).
 
 ## Library
 
+### Testing
+
+Used within the library to test that the data structures work.
+
+  **Methods:**
+  - Assertions:
+    - `assert_int_equals`
+    - `assert_str_equals`
+    - `assert_ptr_equals`
+    - `assert_true`
+    - `assert_false`
+  - `register_test`
+    - Adds test to the tests that will be run.
+    - `test`: Test to be run.
+  - `main`
+    - Basic main function, to run the tests.
+
 ### Dynamic Array
 
   Array with dynamic size. Can also act as a stack.
