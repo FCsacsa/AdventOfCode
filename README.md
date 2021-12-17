@@ -20,7 +20,7 @@ Library and solutions to the problems in [Advent of Code](adventofcode.com).
   - [ ] day 14
   - [ ] day 15
   - [ ] day 16
-  - [ ] day 17
+  - [x] day 17
   - [ ] day 18
   - [ ] day 19
   - [ ] day 20
